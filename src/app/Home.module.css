@@ -1,0 +1,95 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    background-image: url('/1.jfif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .phone {
+    width: 300px;
+    height: 525px;
+    background-color: #fff;
+    border: 2px solid #000;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .screen {
+    flex: 0.3;
+    width: 100%;
+    background-color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-around;
+    gap: 15px;
+   
+  }
+  
+  .button {
+    width: 80px; 
+    height: 50px; 
+    padding: 10px 20px;
+    background-color: #0070f3;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 23px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .button:hover {
+    background-color: #005bb5;
+  }
+  .pageContent {
+    text-align: center; /* لضبط النص في المنتصف */
+    margin-top: 50px;
+  }
+  
+  .pageContent h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color:red;
+  }
+  .pageContent h2 {
+    font-size:x-large;
+    color: green;
+  }
+  .pageContent h3 {
+    font-size: x-large;
+    color: green;
+  }
+  
+  .pageContent p {
+    font-size: 1.5rem;
+    font-weight: bold; 
+    text-align: center; 
+    display: flex;
+    font-family: 'Amiri', serif;
+    direction: rtl;
+    line-height: 1.6;
+    margin-bottom: 1.2em;
+  }
+  .videoContainer {
+    margin-top: 20px;
+  }
