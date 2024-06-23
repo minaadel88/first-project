@@ -108,6 +108,7 @@
   }
   .pageContent {
     margin-top: 2rem;
+    text-align: center;
   }
 
   .phone {
@@ -131,6 +132,10 @@
     max-width: 300px;
     padding: 15px;
   }
+  .pageContent {
+    margin-top: 2rem;
+    text-align: center;
+  }
 
   .button {
     font-size: 1rem;
@@ -143,9 +148,9 @@
     padding: 40px;
   }
   .pageContent {
-    margin-top: 5rem;
+    margin-top: 2rem;
+    text-align: center;
   }
-
   .phone {
     max-width: 300px;
     padding: 20px;
