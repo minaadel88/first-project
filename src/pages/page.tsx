@@ -20,7 +20,7 @@ const Page = () => {
             <p>1 إِذًا لاَ شَيْءَ مِنَ الدَّيْنُونَةِ الآنَ عَلَى الَّذِينَ هُمْ فِي الْمَسِيحِ يَسُوعَ، السَّالِكِينَ لَيْسَ حَسَبَ الْجَسَدِ بَلْ حَسَبَ الرُّوحِ. 2 لأَنَّ نَامُوسَ رُوحِ الْحَيَاةِ فِي الْمَسِيحِ يَسُوعَ قَدْ أَعْتَقَنِي مِنْ نَامُوسِ الْخَطِيَّةِ وَالْمَوْتِ.(رو1:8-2)</p>
             {video && (
               <div className={styles.videoContainer}>
-                <iframe width="50%" height="auto" src="https://www.youtube.com/embed/FPOd3lCBNHI" title="إحساس الذنب  - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+                <iframe width="100%" height="auto" src="https://www.youtube.com/embed/FPOd3lCBNHI" title="إحساس الذنب  - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
               </div>
             )}
           </div>
@@ -37,7 +37,7 @@ const Page = () => {
 <p>7 وَلكِنْ لَنَا هذَا الْكَنْزُ فِي أَوَانٍ خَزَفِيَّةٍ، لِيَكُونَ فَضْلُ الْقُوَّةِ ِللهِ لاَ مِنَّا. 8 مُكْتَئِبِينَ فِي كُلِّ شَيْءٍ، لكِنْ غَيْرَ مُتَضَايِقِينَ. مُتَحَيِّرِينَ، لكِنْ غَيْرَ يَائِسِينَ. 9 مُضْطَهَدِينَ، لكِنْ غَيْرَ مَتْرُوكِينَ. مَطْرُوحِينَ، لكِنْ غَيْرَ هَالِكِينَ. 10 حَامِلِينَ فِي الْجَسَدِ كُلَّ حِينٍ إِمَاتَةَ الرَّبِّ يَسُوعَ، لِكَيْ تُظْهَرَ حَيَاةُ يَسُوعَ أَيْضًا فِي جَسَدِنَا. 11 لأَنَّنَا نَحْنُ الأَحْيَاءَ نُسَلَّمُ دَائِمًا لِلْمَوْتِ مِنْ أَجْلِ يَسُوعَ، لِكَيْ تَظْهَرَ حَيَاةُ يَسُوعَ أَيْضًا فِي جَسَدِنَا الْمَائِتِ. 12 إِذًا الْمَوْتُ يَعْمَلُ فِينَا، وَلكِنِ الْحَيَاةُ فِيكُمْ. 13 فَإِذْ لَنَا رُوحُ الإِيمَانِ عَيْنُهُ، حَسَبَ الْمَكْتُوب:«آمَنْتُ لِذلِكَ تَكَلَّمْتُ»، نَحْنُ أَيْضًا نُؤْمِنُ وَلِذلِكَ نَتَكَلَّمُ أَيْضًا. 14 عَالِمِينَ أَنَّ الَّذِي أَقَامَ الرَّبَّ يَسُوعَ سَيُقِيمُنَا نَحْنُ أَيْضًا بِيَسُوعَ، وَيُحْضِرُنَا مَعَكُمْ.</p>
 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/y1HhAhqOx6Y" title="الإكتئاب مرض العصر - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/y1HhAhqOx6Y" title="الإكتئاب مرض العصر - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
             )}
           </div>
         );
@@ -53,7 +53,7 @@ const Page = () => {
 <p>24 «لاَ يَقْدِرُ أَحَدٌ أَنْ يَخْدِمَ سَيِّدَيْنِ، لأَنَّهُ إِمَّا أَنْ يُبْغِضَ الْوَاحِدَ وَيُحِبَّ الآخَرَ، أَوْ يُلاَزِمَ الْوَاحِدَ وَيَحْتَقِرَ الآخَرَ. لاَ تَقْدِرُونَ أَنْ تَخْدِمُوا اللهَ وَالْمَالَ. 25 «لِذلِكَ أَقُولُ لَكُمْ: لاَ تَهْتَمُّوا لِحَيَاتِكُمْ بِمَا تَأْكُلُونَ وَبِمَا تَشْرَبُونَ، وَلاَ لأَجْسَادِكُمْ بِمَا تَلْبَسُونَ. أَلَيْسَتِ الْحَيَاةُ أَفْضَلَ مِنَ الطَّعَامِ، وَالْجَسَدُ أَفْضَلَ مِنَ اللِّبَاسِ؟ 26 اُنْظُرُوا إِلَى طُيُورِ السَّمَاءِ: إِنَّهَا لاَ تَزْرَعُ وَلاَ تَحْصُدُ وَلاَ تَجْمَعُ إِلَى مَخَازِنَ، وَأَبُوكُمُ السَّمَاوِيُّ يَقُوتُهَا. أَلَسْتُمْ أَنْتُمْ بِالْحَرِيِّ أَفْضَلَ مِنْهَا؟ 27 وَمَنْ مِنْكُمْ إِذَا اهْتَمَّ يَقْدِرُ أَنْ يَزِيدَ عَلَى قَامَتِهِ ذِرَاعًا وَاحِدَةً؟ 28 وَلِمَاذَا تَهْتَمُّونَ بِاللِّبَاسِ؟ تَأَمَّلُوا زَنَابِقَ الْحَقْلِ كَيْفَ تَنْمُو! لاَ تَتْعَبُ وَلاَ تَغْزِلُ. 29 وَلكِنْ أَقُولُ لَكُمْ: إِنَّهُ وَلاَ سُلَيْمَانُ فِي كُلِّ مَجْدِهِ كَانَ يَلْبَسُ كَوَاحِدَةٍ مِنْهَا. 30 فَإِنْ كَانَ عُشْبُ الْحَقْلِ الَّذِي يُوجَدُ الْيَوْمَ وَيُطْرَحُ غَدًا فِي التَّنُّورِ، يُلْبِسُهُ اللهُ هكَذَا، أَفَلَيْسَ بِالْحَرِيِّ جِدًّا يُلْبِسُكُمْ أَنْتُمْ يَا قَلِيلِي الإِيمَانِ؟ 31 فَلاَ تَهْتَمُّوا قَائِلِينَ: مَاذَا نَأْكُلُ؟ أَوْ مَاذَا نَشْرَبُ؟ أَوْ مَاذَا نَلْبَسُ؟ 32 فَإِنَّ هذِهِ كُلَّهَا تَطْلُبُهَا الأُمَمُ. لأَنَّ أَبَاكُمُ السَّمَاوِيَّ يَعْلَمُ أَنَّكُمْ تَحْتَاجُونَ إِلَى هذِهِ كُلِّهَا. 33 لكِنِ اطْلُبُوا أَوَّلاً مَلَكُوتَ اللهِ وَبِرَّهُ، وَهذِهِ كُلُّهَا تُزَادُ لَكُمْ. 34 فَلاَ تَهْتَمُّوا لِلْغَدِ، لأَنَّ الْغَدَ يَهْتَمُّ بِمَا لِنَفْسِهِ. يَكْفِي الْيَوْمَ شَرُّهُ.(مت24:6-34)</p>
 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/m2HNdf7OSuc" title="خلى قلبك قوى ميعرفش الخوف❤️💪🏻 قداسة البابا شنودة الثالث #قناة_الحرية" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/m2HNdf7OSuc" title="خلى قلبك قوى ميعرفش الخوف❤️💪🏻 قداسة البابا شنودة الثالث #قناة_الحرية" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
             )}
           </div>
         );
@@ -70,7 +70,7 @@ const Page = () => {
 
 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/kHP6Gp0C-mw" title="الخوف أسبابه وعلاجه في دقيقة - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/kHP6Gp0C-mw" title="الخوف أسبابه وعلاجه في دقيقة - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
             )}
           </div>
         );
@@ -87,7 +87,7 @@ const Page = () => {
 
 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/jNlYfkMlCiI" title="الضغوط - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/jNlYfkMlCiI" title="الضغوط - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
             )}
           </div>
         );
@@ -101,7 +101,7 @@ const Page = () => {
               <p>1 وَفِي أَثْنَاءِ ذلِكَ، إِذِ اجْتَمَعَ رَبَوَاتُ الشَّعْبِ، حَتَّى كَانَ بَعْضُهُمْ يَدُوسُ بَعْضًا، ابْتَدَأَ يَقُولُ لِتَلاَمِيذِهِ: «أَوَّلاً تَحَرَّزُوا لأَنْفُسِكُمْ مِنْ خَمِيرِ الْفَرِّيسِيِّينَ الَّذِي هُوَ الرِّيَاءُ، 2 فَلَيْسَ مَكْتُومٌ لَنْ يُسْتَعْلَنَ، وَلاَ خَفِيٌّ لَنْ يُعْرَفَ. 3 لِذلِكَ كُلُّ مَا قُلْتُمُوهُ فِي الظُّلْمَةِ يُسْمَعُ فِي النُّورِ، وَمَا كَلَّمْتُمْ بِهِ الأُذْنَ فِي الْمَخَادِعِ يُنَادَى بِهِ عَلَى السُّطُوحِ. 4 وَلكِنْ أَقُولُ لَكُمْ يَا أَحِبَّائِي: لاَ تَخَافُوا مِنَ الَّذِينَ يَقْتُلُونَ الْجَسَدَ، وَبَعْدَ ذلِكَ لَيْسَ لَهُمْ مَا يَفْعَلُونَ أَكْثَرَ. 5 بَلْ أُرِيكُمْ مِمَّنْ تَخَافُونَ: خَافُوا مِنَ الَّذِي بَعْدَمَا يَقْتُلُ، لَهُ سُلْطَانٌ أَنْ يُلْقِيَ فِي جَهَنَّمَ. نَعَمْ، أَقُولُ لَكُمْ: مِنْ هذَا خَافُوا! 6 أَلَيْسَتْ خَمْسَةُ عَصَافِيرَ تُبَاعُ بِفَلْسَيْنِ، وَوَاحِدٌ مِنْهَا لَيْسَ مَنْسِيًّا أَمَامَ اللهِ؟ 7 بَلْ شُعُورُ رُؤُوسِكُمْ أَيْضًا جَمِيعُهَا مُحْصَاةٌ. فَلاَ تَخَافُوا! أَنْتُمْ أَفْضَلُ مِنْ عَصَافِيرَ كَثِيرَةٍ! 8 وَأَقُولُ لَكُمْ: كُلُّ مَنِ اعْتَرَفَ بِي قُدَّامَ النَّاسِ، يَعْتَرِفُ بِهِ ابْنُ الإِنْسَانِ قُدَّامَ مَلاَئِكَةِ اللهِ. 9 وَمَنْ أَنْكَرَنِي قُدَّامَ النَّاسِ، يُنْكَرُ قُدَّامَ مَلاَئِكَةِ اللهِ. 10 وَكُلُّ مَنْ قَالَ كَلِمَةً عَلَى ابْنِ الإِنْسَانِ يُغْفَرُ لَهُ، وَأَمَّا مَنْ جَدَّفَ عَلَى الرُّوحِ الْقُدُسِ فَلاَ يُغْفَرُ لَهُ. 11 وَمَتَى قَدَّمُوكُمْ إِلَى الْمَجَامِعِ وَالرُّؤَسَاءِ وَالسَّلاَطِينِ فَلاَ تَهْتَمُّوا كَيْفَ أَوْ بِمَا تَحْتَجُّونَ أَوْ بِمَا تَقُولُونَ، 12 لأَنَّ الرُّوحَ الْقُدُسَ يُعَلِّمُكُمْ فِي تِلْكَ السَّاعَةِ مَا يَجِبُ أَنْ تَقُولُوهُ».</p>
               {video && (
               <div className={styles.videoContainer}>
-<iframe width="531" height="398" src="https://www.youtube.com/embed/MRl7Ah01Ex8" title="الشعور بعدم الامان يولد انانية - كلام مهم جدا من ابونا داود لمعى @ قناة اغابى" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/MRl7Ah01Ex8" title="الشعور بعدم الامان يولد انانية - كلام مهم جدا من ابونا داود لمعى @ قناة اغابى" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
             )}
           </div>
         );
@@ -115,7 +115,7 @@ const Page = () => {
               <p>10 وَأَمَّا أَنْتَ فَقَدْ تَبِعْتَ تَعْلِيمِي، وَسِيرَتِي، وَقَصْدِي، وَإِيمَانِي، وَأَنَاتِي، وَمَحَبَّتِي، وَصَبْرِي، 11 وَاضْطِهَادَاتِي، وَآلاَمِي، مِثْلَ مَا أَصَابَنِي فِي أَنْطَاكِيَةَ وَإِيقُونِيَّةَ وَلِسْتِرَةَ. أَيَّةَ اضْطِهَادَاتٍ احْتَمَلْتُ! وَمِنَ الْجَمِيعِ أَنْقَذَنِي الرَّبُّ. 12 وَجَمِيعُ الَّذِينَ يُرِيدُونَ أَنْ يَعِيشُوا بِالتَّقْوَى فِي الْمَسِيحِ يَسُوعَ يُضْطَهَدُونَ. 13 وَلكِنَّ النَّاسَ الأَشْرَارَ الْمُزَوِّرِينَ سَيَتَقَدَّمُونَ إِلَى أَرْدَأَ، مُضِلِّينَ وَمُضَلِّينَ. 14 وَأَمَّا أَنْتَ فَاثْبُتْ عَلَى مَا تَعَلَّمْتَ وَأَيْقَنْتَ، عَارِفًا مِمَّنْ تَعَلَّمْتَ.</p>
               {video && (
               <div className={styles.videoContainer}>
-<iframe width="531" height="398" src="https://www.youtube.com/embed/tDbYn21akQ8" title="أشعر بالظلم والاضطهاد ماذا أفعل  / سنوات مع أسئلة الناس/ البابا شنودة الثالث" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/tDbYn21akQ8" title="أشعر بالظلم والاضطهاد ماذا أفعل  / سنوات مع أسئلة الناس/ البابا شنودة الثالث" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
             )}
           </div>
         );
@@ -129,7 +129,7 @@ const Page = () => {
               <p>18 أَيُّهَا الْخُدَّامُ، كُونُوا خَاضِعِينَ بِكُلِّ هَيْبَةٍ لِلسَّادَةِ، لَيْسَ لِلصَّالِحِينَ الْمُتَرَفِّقِينَ فَقَطْ، بَلْ لِلْعُنَفَاءِ أَيْضًا. 19 لأَنَّ هذَا فَضْلٌ، إِنْ كَانَ أَحَدٌ مِنْ أَجْلِ ضَمِيرٍ نَحْوَ اللهِ، يَحْتَمِلُ أَحْزَانًا مُتَأَلِّمًا بِالظُّلْمِ. 20 لأَنَّهُ أَيُّ مَجْدٍ هُوَ إِنْ كُنْتُمْ تُلْطَمُونَ مُخْطِئِينَ فَتَصْبِرُونَ؟ بَلْ إِنْ كُنْتُمْ تَتَأَلَّمُونَ عَامِلِينَ الْخَيْرَ فَتَصْبِرُونَ، فَهذَا فَضْلٌ عِنْدَ اللهِ، 21 لأَنَّكُمْ لِهذَا دُعِيتُمْ. فَإِنَّ الْمَسِيحَ أَيْضًا تَأَلَّمَ لأَجْلِنَا، تَارِكًا لَنَا مِثَالاً لِكَيْ تَتَّبِعُوا خُطُوَاتِهِ. 22 «الَّذِي لَمْ يَفْعَلْ خَطِيَّةً، وَلاَ وُجِدَ فِي فَمِهِ مَكْرٌ»، 23 الَّذِي إِذْ شُتِمَ لَمْ يَكُنْ يَشْتِمُ عِوَضًا، وَإِذْ تَأَلَّمَ لَمْ يَكُنْ يُهَدِّدُ بَلْ كَانَ يُسَلِّمُ لِمَنْ يَقْضِي بِعَدْل. 24 الَّذِي حَمَلَ هُوَ نَفْسُهُ خَطَايَانَا فِي جَسَدِهِ عَلَى الْخَشَبَةِ، لِكَيْ نَمُوتَ عَنِ الْخَطَايَا فَنَحْيَا لِلْبِرِّ. الَّذِي بِجَلْدَتِهِ شُفِيتُمْ. 25 لأَنَّكُمْ كُنْتُمْ كَخِرَافٍ ضَالَّةٍ، لكِنَّكُمْ رَجَعْتُمُ الآنَ إِلَى رَاعِي نُفُوسِكُمْ وَأُسْقُفِهَا.</p>
               {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/XoVYdwdBYYo" title="ليه الوجع ؟ لماذا الألم ؟ ليه الجرح ؟ - تأمل قصير - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/XoVYdwdBYYo" title="ليه الوجع ؟ لماذا الألم ؟ ليه الجرح ؟ - تأمل قصير - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>              </div>
             )}
           </div>
         );
@@ -147,7 +147,7 @@ const Page = () => {
 <p>13 ثُمَّ لاَ أُرِيدُ أَنْ تَجْهَلُوا أَيُّهَا الإِخْوَةُ مِنْ جِهَةِ الرَّاقِدِينَ، لِكَيْ لاَ تَحْزَنُوا كَالْبَاقِينَ الَّذِينَ لاَ رَجَاءَ لَهُمْ. 14 لأَنَّهُ إِنْ كُنَّا نُؤْمِنُ أَنَّ يَسُوعَ مَاتَ وَقَامَ، فَكَذلِكَ الرَّاقِدُونَ بِيَسُوعَ، سَيُحْضِرُهُمُ اللهُ أَيْضًا مَعَهُ. 15 فَإِنَّنَا نَقُولُ لَكُمْ هذَا بِكَلِمَةِ الرَّبِّ: إِنَّنَا نَحْنُ الأَحْيَاءَ الْبَاقِينَ إِلَى مَجِيءِ الرَّبِّ، لاَ نَسْبِقُ الرَّاقِدِينَ. 16 لأَنَّ الرَّبّ نََفْسَهُ بِهُتَافٍ، بِصَوْتِ رَئِيسِ مَلاَئِكَةٍ وَبُوقِ اللهِ، سَوْفَ يَنْزِلُ مِنَ السَّمَاءِ وَالأَمْوَاتُ فِي الْمَسِيحِ سَيَقُومُونَ أَوَّلاً. 17 ثُمَّ نَحْنُ الأَحْيَاءَ الْبَاقِينَ سَنُخْطَفُ جَمِيعًا مَعَهُمْ فِي السُّحُبِ لِمُلاَقَاةِ الرَّبِّ فِي الْهَوَاءِ، وَهكَذَا نَكُونُ كُلَّ حِينٍ مَعَ الرَّبِّ. 18 لِذلِكَ عَزُّوا بَعْضُكُمْ بَعْضًا بِهذَا الْكَلاَمِ.</p>
 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/gs3FB80S45o" title="الحزن - ابونا بولس جورج - عظة اجتماع السيدات - الاربعاء 3 ابريل 2024" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>             </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/gs3FB80S45o" title="الحزن - ابونا بولس جورج - عظة اجتماع السيدات - الاربعاء 3 ابريل 2024" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>             </div>
             )}
           </div>
         );
@@ -161,7 +161,7 @@ const Page = () => {
               <p>اِغْضَبُوا وَلاَ تُخْطِئُوا. لاَ تَغْرُبِ الشَّمْسُ عَلَى غَيْظِكُمْ، 27 وَلاَ تُعْطُوا إِبْلِيسَ مَكَانًا. 28 لاَ يَسْرِقِ السَّارِقُ فِي مَا بَعْدُ، بَلْ بِالْحَرِيِّ يَتْعَبُ عَامِلاً الصَّالِحَ بِيَدَيْهِ، لِيَكُونَ لَهُ أَنْ يُعْطِيَ مَنْ لَهُ احْتِيَاجٌ. 29 لاَ تَخْرُجْ كَلِمَةٌ رَدِيَّةٌ مِنْ أَفْوَاهِكُمْ، بَلْ كُلُّ مَا كَانَ صَالِحًا لِلْبُنْيَانِ، حَسَبَ الْحَاجَةِ، كَيْ يُعْطِيَ نِعْمَةً لِلسَّامِعِينَ. 30 وَلاَ تُحْزِنُوا رُوحَ اللهِ الْقُدُّوسَ الَّذِي بِهِ خُتِمْتُمْ لِيَوْمِ الْفِدَاءِ. 31 لِيُرْفَعْ مِنْ بَيْنِكُمْ كُلُّ مَرَارَةٍ وَسَخَطٍ وَغَضَبٍ وَصِيَاحٍ وَتَجْدِيفٍ مَعَ كُلِّ خُبْثٍ. 32 وَكُونُوا لُطَفَاءَ بَعْضُكُمْ نَحْوَ بَعْضٍ، شَفُوقِينَ مُتَسَامِحِينَ كَمَا سَامَحَكُمُ اللهُ أَيْضًا فِي الْمَسِيحِ.</p>
               {video && (
               <div className={styles.videoContainer}>
-<iframe width="531" height="398" src="https://www.youtube.com/embed/0lexyZTGl3Y" title="تامل رائع عن الغضب وعلاجة  لمثلث الرحمات البابا شنودة الثالث بالموسيقى @ اعداد/ عادل عبدالله" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>      </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/0lexyZTGl3Y" title="تامل رائع عن الغضب وعلاجة  لمثلث الرحمات البابا شنودة الثالث بالموسيقى @ اعداد/ عادل عبدالله" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>      </div>
             )}
           </div>
         );
@@ -177,7 +177,7 @@ const Page = () => {
 43 «سَمِعْتُمْ أَنَّهُ قِيلَ: تُحِبُّ قَرِيبَكَ وَتُبْغِضُ عَدُوَّكَ. 44 وَأَمَّا أَنَا فَأَقُولُ لَكُمْ: أَحِبُّوا أَعْدَاءَكُمْ. بَارِكُوا لاَعِنِيكُمْ. أَحْسِنُوا إِلَى مُبْغِضِيكُمْ، وَصَلُّوا لأَجْلِ الَّذِينَ يُسِيئُونَ إِلَيْكُمْ وَيَطْرُدُونَكُمْ، 45 لِكَيْ تَكُونُوا أَبْنَاءَ أَبِيكُمُ الَّذِي فِي السَّمَاوَاتِ، فَإِنَّهُ يُشْرِقُ شَمْسَهُ عَلَى الأَشْرَارِ وَالصَّالِحِينَ، وَيُمْطِرُ عَلَى الأَبْرَارِ وَالظَّالِمِينَ. 46 لأَنَّهُ إِنْ أَحْبَبْتُمُ الَّذِينَ يُحِبُّونَكُمْ، فَأَيُّ أَجْرٍ لَكُمْ؟ أَلَيْسَ الْعَشَّارُونَ أَيْضًا يَفْعَلُونَ ذلِكَ؟ 47 وَإِنْ سَلَّمْتُمْ عَلَى إِخْوَتِكُمْ فَقَطْ، فَأَيَّ فَضْل تَصْنَعُونَ؟ أَلَيْسَ الْعَشَّارُونَ أَيْضًا يَفْعَلُونَ هكَذَا؟ 48 فَكُونُوا أَنْتُمْ كَامِلِينَ كَمَا أَنَّ أَبَاكُمُ الَّذِي فِي السَّمَاوَاتِ هُوَ كَامِلٌ.</p>
 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/zw4wwUVd4Qs" title="الحلقة السادسة - الغيرة والحسد- من سلسلة حلقات ( أنا تعبان ) لأبونا الحبيب القمص داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>             </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/zw4wwUVd4Qs" title="الحلقة السادسة - الغيرة والحسد- من سلسلة حلقات ( أنا تعبان ) لأبونا الحبيب القمص داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>             </div>
             )}
           </div>
         );
@@ -193,7 +193,7 @@ const Page = () => {
 <p>22 وَقَالَ لِتَلاَمِيذِهِ:«مِنْ أَجْلِ هذَا أَقُولُ لَكُمْ: لاَ تَهْتَمُّوا لِحَيَاتِكُمْ بِمَا تَأْكُلُونَ، وَلاَ لِلْجَسَدِ بِمَا تَلْبَسُونَ. 23 اَلْحَيَاةُ أَفْضَلُ مِنَ الطَّعَامِ، وَالْجَسَدُ أَفْضَلُ مِنَ اللِّبَاسِ. 24 تَأَمَّلُوا الْغِرْبَانَ: أَنَّهَا لاَ تَزْرَعُ وَلاَ تَحْصُدُ، وَلَيْسَ لَهَا مَخْدَعٌ وَلاَ مَخْزَنٌ، وَاللهُ يُقِيتُهَا. كَمْ أَنْتُمْ بِالْحَرِيِّ أَفْضَلُ مِنَ الطُّيُورِ! 25 وَمَنْ مِنْكُمْ إِذَا اهْتَمَّ يَقْدِرُ أَنْ يَزِيدَ عَلَى قَامَتِهِ ذِرَاعًا وَاحِدَةً؟ 26 فَإِنْ كُنْتُمْ لاَ تَقْدِرُونَ وَلاَ عَلَى الأَصْغَرِ، فَلِمَاذَا تَهْتَمُّونَ بِالْبَوَاقِي؟ 27 تَأَمَّلُوا الزَّنَابِقَ كَيْفَ تَنْمُو: لاَ تَتْعَبُ وَلاَ تَغْزِلُ، وَلكِنْ أَقُولُ لَكُمْ: إِنَّهُ وَلاَ سُلَيْمَانُ فِي كُلِّ مَجْدِهِ كَانَ يَلْبَسُ كَوَاحِدَةٍ مِنْهَا. 28 فَإِنْ كَانَ الْعُشْبُ الَّذِي يُوجَدُ الْيَوْمَ فِي الْحَقْلِ وَيُطْرَحُ غَدًا فِي التَّنُّورِ يُلْبِسُهُ اللهُ هكَذَا، فَكَمْ بِالْحَرِيِّ يُلْبِسُكُمْ أَنْتُمْ يَا قَلِيلِي الإِيمَانِ؟ 29 فَلاَ تَطْلُبُوا أَنْتُمْ مَا تَأْكُلُونَ وَمَا تَشْرَبُونَ وَلاَ تَقْلَقُوا، 30 فَإِنَّ هذِهِ كُلَّهَا تَطْلُبُهَا أُمَمُ الْعَالَمِ. وَأَمَّا أَنْتُمْ فَأَبُوكُمْ يَعْلَمُ أَنَّكُمْ تَحْتَاجُونَ إِلَى هذِهِ. 31 بَلِ اطْلُبُوا مَلَكُوتَ اللهِ، وَهذِهِ كُلُّهَا تُزَادُ لَكُمْ.</p>
 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/wmyIFpy5LLA" title="الاحتياج النفسي - الأب داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>             </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/wmyIFpy5LLA" title="الاحتياج النفسي - الأب داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>             </div>
             )}
           </div>
         );
@@ -213,7 +213,7 @@ const Page = () => {
 27 «سَلاَمًا أَتْرُكُ لَكُمْ. سَلاَمِي أُعْطِيكُمْ. لَيْسَ كَمَا يُعْطِي الْعَالَمُ أُعْطِيكُمْ أَنَا. لاَ تَضْطَرِبْ قُلُوبُكُمْ وَلاَ تَرْهَبْ. 28 سَمِعْتُمْ أَنِّي قُلْتُ لَكُمْ: أَنَا أَذْهَبُ ثُمَّ آتِي إِلَيْكُمْ. لَوْ كُنْتُمْ تُحِبُّونَنِي لَكُنْتُمْ تَفْرَحُونَ لأَنِّي قُلْتُ أَمْضِي إِلَى الآبِ، لأَنَّ أَبِي أَعْظَمُ مِنِّي. 29 وَقُلْتُ لَكُمُ الآنَ قَبْلَ أَنْ يَكُونَ، حَتَّى مَتَى كَانَ تُؤْمِنُونَ. 30 لاَ أَتَكَلَّمُ أَيْضًا مَعَكُمْ كَثِيرًا، لأَنَّ رَئِيسَ هذَا الْعَالَمِ يَأْتِي وَلَيْسَ لَهُ فِيَّ شَيْءٌ. 31 وَلكِنْ لِيَفْهَمَ الْعَالَمُ أَنِّي أُحِبُّ الآبَ، وَكَمَا أَوْصَانِي الآبُ هكَذَا أَفْعَلُ. قُومُوا نَنْطَلِقْ مِنْ ههُنَا.</p>
 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/CGCov8QjFWE" title="عظة &quot;الشعور بالوحدة&quot; - الانبا كاراس اسقف المحلة الكبرى بدون موسيقى" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>     </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/CGCov8QjFWE" title="عظة &quot;الشعور بالوحدة&quot; - الانبا كاراس اسقف المحلة الكبرى بدون موسيقى" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>     </div>
             )}
           </div>
         );
@@ -233,7 +233,7 @@ const Page = () => {
                 <p>21 فَسَأَلَ أَبَاهُ:«كَمْ مِنَ الزَّمَانِ مُنْذُ أَصَابَهُ هذَا؟» فَقَالَ: «مُنْذُ صِبَاهُ. 22 وَكَثِيرًا مَا أَلْقَاهُ فِي النَّارِ وَفِي الْمَاءِ لِيُهْلِكَهُ. لكِنْ إِنْ كُنْتَ تَسْتَطِيعُ شَيْئًا فَتَحَنَّنْ عَلَيْنَا وَأَعِنَّا». 23 فَقَالَ لَهُ يَسُوعُ:«إِنْ كُنْتَ تَسْتَطِيعُ أَنْ تُؤْمِنَ. كُلُّ شَيْءٍ مُسْتَطَاعٌ لِلْمُؤْمِنِ». 24 فَلِلْوَقْتِ صَرَخَ أَبُو الْوَلَدِ بِدُمُوعٍ وَقَالَ:«أُومِنُ يَا سَيِّدُ، فَأَعِنْ عَدَمَ إِيمَانِي».</p>
                 {video && (
               <div className={styles.videoContainer}>
-<iframe width="531" height="398" src="https://www.youtube.com/embed/-nMHxHrcY3g" title="كلمة صغيرة من ابونا داود لمعي عن فقدان الامل" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>  </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/-nMHxHrcY3g" title="كلمة صغيرة من ابونا داود لمعي عن فقدان الامل" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>  </div>
             )}
           </div>
         );
@@ -255,7 +255,7 @@ const Page = () => {
                 <p>13 فَإِذْ لَنَا رُوحُ الإِيمَانِ عَيْنُهُ، حَسَبَ الْمَكْتُوب:«آمَنْتُ لِذلِكَ تَكَلَّمْتُ»، نَحْنُ أَيْضًا نُؤْمِنُ وَلِذلِكَ نَتَكَلَّمُ أَيْضًا. 14 عَالِمِينَ أَنَّ الَّذِي أَقَامَ الرَّبَّ يَسُوعَ سَيُقِيمُنَا نَحْنُ أَيْضًا بِيَسُوعَ، وَيُحْضِرُنَا مَعَكُمْ. 15 لأَنَّ جَمِيعَ الأَشْيَاءِ هِيَ مِنْ أَجْلِكُمْ، لِكَيْ تَكُونَ النِّعْمَةُ وَهِيَ قَدْ كَثُرَتْ بِالأَكْثَرِينَ، تَزِيدُ الشُّكْرَ لِمَجْدِ اللهِ. 16 لِذلِكَ لاَ نَفْشَلُ، بَلْ وَإِنْ كَانَ إِنْسَانُنَا الْخَارِجُ يَفْنَى، فَالدَّاخِلُ يَتَجَدَّدُ يَوْمًا فَيَوْمًا. 17 لأَنَّ خِفَّةَ ضِيقَتِنَا الْوَقْتِيَّةَ تُنْشِئُ لَنَا أَكْثَرَ فَأَكْثَرَ ثِقَلَ مَجْدٍ أَبَدِيًّا. 18 وَنَحْنُ غَيْرُ نَاظِرِينَ إِلَى الأَشْيَاءِ الَّتِي تُرَى، بَلْ إِلَى الَّتِي لاَ تُرَى. لأَنَّ الَّتِي تُرَى وَقْتِيَّةٌ، وَأَمَّا الَّتِي لاَ تُرَى فَأَبَدِيَّةٌ.</p>
                 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/37AZsGvQoUA" title="الفشل - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe> </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/37AZsGvQoUA" title="الفشل - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe> </div>
             )}
           </div>
         );
@@ -271,7 +271,7 @@ const Page = () => {
                 <p>35 مَنْ سَيَفْصِلُنَا عَنْ مَحَبَّةِ الْمَسِيحِ؟ أَشِدَّةٌ أَمْ ضَِيْقٌ أَمِ اضْطِهَادٌ أَمْ جُوعٌ أَمْ عُرْيٌ أَمْ خَطَرٌ أَمْ سَيْفٌ؟ 36 كَمَا هُوَ مَكْتُوبٌ:«إِنَّنَا مِنْ أَجْلِكَ نُمَاتُ كُلَّ النَّهَارِ. قَدْ حُسِبْنَا مِثْلَ غَنَمٍ لِلذَّبْحِ». 37 وَلكِنَّنَا فِي هذِهِ جَمِيعِهَا يَعْظُمُ انْتِصَارُنَا بِالَّذِي أَحَبَّنَا. 38 فَإِنِّي مُتَيَقِّنٌ أَنَّهُ لاَ مَوْتَ وَلاَ حَيَاةَ، وَلاَ مَلاَئِكَةَ وَلاَ رُؤَسَاءَ وَلاَ قُوَّاتِ، وَلاَ أُمُورَ حَاضِرَةً وَلاَ مُسْتَقْبَلَةً، 39 وَلاَ عُلْوَ وَلاَ عُمْقَ، وَلاَ خَلِيقَةَ أُخْرَى، تَقْدِرُ أَنْ تَفْصِلَنَا عَنْ مَحَبَّةِ اللهِ الَّتِي فِي الْمَسِيحِ يَسُوعَ رَبِّنَا.</p>
                 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/Z4QGDv6la0g" title="الوقاية من الخطر - عظة من مؤتمر _تلذذ بالرب_ - أبونا داود لمعي - Risk prevention LGBTQ2S" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>             </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/Z4QGDv6la0g" title="الوقاية من الخطر - عظة من مؤتمر _تلذذ بالرب_ - أبونا داود لمعي - Risk prevention LGBTQ2S" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>             </div>
             )}
           </div>
         );
@@ -291,7 +291,7 @@ const Page = () => {
 13 مَنْ هُوَ حَكِيمٌ وَعَالِمٌ بَيْنَكُمْ، فَلْيُرِ أَعْمَالَهُ بِالتَّصَرُّفِ الْحَسَنِ فِي وَدَاعَةِ الْحِكْمَةِ. 14 وَلكِنْ إِنْ كَانَ لَكُمْ غَيْرَةٌ مُرَّةٌ وَتَحَزُّبٌ فِي قُلُوبِكُمْ، فَلاَ تَفْتَخِرُوا وَتَكْذِبُوا عَلَى الْحَقِّ. 15 لَيْسَتْ هذِهِ الْحِكْمَةُ نَازِلَةً مِنْ فَوْقُ، بَلْ هِيَ أَرْضِيَّةٌ نَفْسَانِيَّةٌ شَيْطَانِيَّةٌ. 16 لأَنَّهُ حَيْثُ الْغَيْرَةُ وَالتَّحَزُّبُ، هُنَاكَ التَّشْوِيشُ وَكُلُّ أَمْرٍ رَدِيءٍ. 17 وَأَمَّا الْحِكْمَةُ الَّتِي مِنْ فَوْقُ فَهِيَ أَوَّلاً طَاهِرَةٌ، ثُمَّ مُسَالِمَةٌ، مُتَرَفِّقَةٌ، مُذْعِنَةٌ، مَمْلُوَّةٌ رَحْمَةً وَأَثْمَارًا صَالِحَةً، عَدِيمَةُ الرَّيْبِ وَالرِّيَاءِ. 18 وَثَمَرُ الْبِرِّ يُزْرَعُ فِي السَّلاَمِ مِنَ الَّذِينَ يَفْعَلُونَ السَّلاَمَ.</p>
 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/nAM4gjRTCdA" title="أسباب الغيرة و علاجها في 4 دقائق -  أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>  </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/nAM4gjRTCdA" title="أسباب الغيرة و علاجها في 4 دقائق -  أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>  </div>
             )}
           </div>
         );
@@ -305,7 +305,7 @@ const Page = () => {
                 <p>25 فِي ذلِكَ الْوَقْتِ أَجَابَ يَسُوعُ وَقَالَ: «أَحْمَدُكَ أَيُّهَا الآبُ رَبُّ السَّمَاءِ وَالأَرْضِ، لأَنَّكَ أَخْفَيْتَ هذِهِ عَنِ الْحُكَمَاءِ وَالْفُهَمَاءِ وَأَعْلَنْتَهَا لِلأَطْفَالِ. 26 نَعَمْ أَيُّهَا الآبُ، لأَنْ هكَذَا صَارَتِ الْمَسَرَّةُ أَمَامَكَ. 27 كُلُّ شَيْءٍ قَدْ دُفِعَ إِلَيَّ مِنْ أَبِي، وَلَيْسَ أَحَدٌ يَعْرِفُ الابْنَ إِلاَّ الآبُ، وَلاَ أَحَدٌ يَعْرِفُ الآبَ إِلاَّ الابْنُ وَمَنْ أَرَادَ الابْنُ أَنْ يُعْلِنَ لَهُ. 28 تَعَالَوْا إِلَيَّ يَا جَمِيعَ الْمُتْعَبِينَ وَالثَّقِيلِي الأَحْمَالِ، وَأَنَا أُرِيحُكُمْ. 29 اِحْمِلُوا نِيرِي عَلَيْكُمْ وَتَعَلَّمُوا مِنِّي، لأَنِّي وَدِيعٌ وَمُتَوَاضِعُ الْقَلْبِ، فَتَجِدُوا رَاحَةً لِنُفُوسِكُمْ. 30 لأَنَّ نِيرِي هَيِّنٌ وَحِمْلِي خَفِيفٌ».</p>
                 {video && (
               <div className={styles.videoContainer}>
-<iframe width="534" height="398" src="https://www.youtube.com/embed/qToBMcff7qY" title="تعب الأعصاب † عظه للبابا شنوده الثالث † 1988" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe> </div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/qToBMcff7qY" title="تعب الأعصاب † عظه للبابا شنوده الثالث † 1988" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe> </div>
             )}
           </div>
         );
@@ -323,7 +323,7 @@ const Page = () => {
                 <p>6 لأَنَّ الْمَسِيحَ، إِذْ كُنَّا بَعْدُ ضُعَفَاءَ، مَاتَ فِي الْوَقْتِ الْمُعَيَّنِ لأَجْلِ الْفُجَّارِ. 7 فَإِنَّهُ بِالْجَهْدِ يَمُوتُ أَحَدٌ لأَجْلِ بَارّ. رُبَّمَا لأَجْلِ الصَّالِحِ يَجْسُرُ أَحَدٌ أَيْضًا أَنْ يَمُوتَ. 8 وَلكِنَّ اللهَ بَيَّنَ مَحَبَّتَهُ لَنَا، لأَنَّهُ وَنَحْنُ بَعْدُ خُطَاةٌ مَاتَ الْمَسِيحُ لأَجْلِنَا. 9 فَبِالأَوْلَى كَثِيرًا وَنَحْنُ مُتَبَرِّرُونَ الآنَ بِدَمِهِ نَخْلُصُ بِهِ مِنَ الْغَضَبِ! 10 لأَنَّهُ إِنْ كُنَّا وَنَحْنُ أَعْدَاءٌ قَدْ صُولِحْنَا مَعَ اللهِ بِمَوْتِ ابْنِهِ، فَبِالأَوْلَى كَثِيرًا وَنَحْنُ مُصَالَحُونَ نَخْلُصُ بِحَيَاتِهِ! 11 وَلَيْسَ ذلِكَ فَقَطْ، بَلْ نَفْتَخِرُ أَيْضًا بِاللهِ، بِرَبِّنَا يَسُوعَ الْمَسِيحِ، الَّذِي نِلْنَا بِهِ الآنَ الْمُصَالَحَةَ.</p>
                 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/naRfGx8UF2Y" title="كفاياك عولان الهم وبلاش شيل المشاكل وماتفكرش وتتعب سيبها لربنا يحلها وماتستعجلهوش وماتقترحش عليه حل" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe></div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/naRfGx8UF2Y" title="كفاياك عولان الهم وبلاش شيل المشاكل وماتفكرش وتتعب سيبها لربنا يحلها وماتستعجلهوش وماتقترحش عليه حل" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe></div>
             )}
           </div>
         );
@@ -337,7 +337,7 @@ const Page = () => {
                 <p>10 طُوبَى لِلْمَطْرُودِينَ مِنْ أَجْلِ الْبِرِّ، لأَنَّ لَهُمْ مَلَكُوتَ السَّمَاوَاتِ. 11 طُوبَى لَكُمْ إِذَا عَيَّرُوكُمْ وَطَرَدُوكُمْ وَقَالُوا عَلَيْكُمْ كُلَّ كَلِمَةٍ شِرِّيرَةٍ، مِنْ أَجْلِي، كَاذِبِينَ. 12 اِفْرَحُوا وَتَهَلَّلُوا، لأَنَّ أَجْرَكُمْ عَظِيمٌ فِي السَّمَاوَاتِ، فَإِنَّهُمْ هكَذَا طَرَدُوا الأَنْبِيَاءَ الَّذِينَ قَبْلَكُمْ.</p>
                 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/Z7nM64V2esU" title="رسالة إلى كل واحد مظلوم - سلسلة رسالة إلى .. - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe></div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/Z7nM64V2esU" title="رسالة إلى كل واحد مظلوم - سلسلة رسالة إلى .. - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe></div>
             )}
           </div>
         );
@@ -351,7 +351,7 @@ const Page = () => {
                 <p>4 الَّذِي إِذْ تَأْتُونَ إِلَيْهِ، حَجَرًا حَيًّا مَرْفُوضًا مِنَ النَّاسِ، وَلكِنْ مُخْتَارٌ مِنَ اللهِ كَرِيمٌ، 5 كُونُوا أَنْتُمْ أَيْضًا مَبْنِيِّينَ ­كَحِجَارَةٍ حَيَّةٍ­ بَيْتًا رُوحِيًّا، كَهَنُوتًا مُقَدَّسًا، لِتَقْدِيمِ ذَبَائِحَ رُوحِيَّةٍ مَقْبُولَةٍ عِنْدَ اللهِ بِيَسُوعَ الْمَسِيحِ. 6 لِذلِكَ يُتَضَمَّنُ أَيْضًا فِي الْكِتَابِ:«هنَذَا أَضَعُ فِي صِهْيَوْنَ حَجَرَ زَاوِيَةٍ مُخْتَارًا كَرِيمًا، وَالَّذِي يُؤْمِنُ بِهِ لَنْ يُخْزَى». 7 فَلَكُمْ أَنْتُمُ الَّذِينَ تُؤْمِنُونَ الْكَرَامَةُ، وَأَمَّا لِلَّذِينَ لاَ يُطِيعُونَ، «فَالْحَجَرُ الَّذِي رَفَضَهُ الْبَنَّاؤُونَ، هُوَ قَدْ صَارَ رَأْسَ الزَّاوِيَةِ» 8 «وَحَجَرَ صَدْمَةٍ وَصَخْرَةَ عَثْرَةٍ. الَّذِينَ يَعْثُرُونَ غَيْرَ طَائِعِينَ لِلْكَلِمَةِ، الأَمْرُ الَّذِي جُعِلُوا لَهُ» 9 وَأَمَّا أَنْتُمْ فَجِنْسٌ مُخْتَارٌ، وَكَهَنُوتٌ مُلُوكِيٌّ، أُمَّةٌ مُقَدَّسَةٌ، شَعْبُ اقْتِنَاءٍ، لِكَيْ تُخْبِرُوا بِفَضَائِلِ الَّذِي دَعَاكُمْ مِنَ الظُّلْمَةِ إِلَى نُورِهِ الْعَجِيبِ. 10 الَّذِينَ قَبْلاً لَمْ تَكُونُوا شَعْبًا، وَأَمَّا الآنَ فَأَنْتُمْ شَعْبُ اللهِ. الَّذِينَ كُنْتُمْ غَيْرَ مَرْحُومِينَ، وَأَمَّا الآنَ فَمَرْحُومُونَ.</p>
                 {video && (
               <div className={styles.videoContainer}>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/8d2P2EgDb_Q" title="عظة شجعوا صغار النفوس عظة ملائكية كما لم تسمعها من قبل | للانبا كاراس اسقف المحلة" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe></div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/8d2P2EgDb_Q" title="عظة شجعوا صغار النفوس عظة ملائكية كما لم تسمعها من قبل | للانبا كاراس اسقف المحلة" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe></div>
             )}
           </div>
         );
