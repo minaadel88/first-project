@@ -20,7 +20,7 @@ const Page = () => {
             <p>1 إِذًا لاَ شَيْءَ مِنَ الدَّيْنُونَةِ الآنَ عَلَى الَّذِينَ هُمْ فِي الْمَسِيحِ يَسُوعَ، السَّالِكِينَ لَيْسَ حَسَبَ الْجَسَدِ بَلْ حَسَبَ الرُّوحِ. 2 لأَنَّ نَامُوسَ رُوحِ الْحَيَاةِ فِي الْمَسِيحِ يَسُوعَ قَدْ أَعْتَقَنِي مِنْ نَامُوسِ الْخَطِيَّةِ وَالْمَوْتِ.(رو1:8-2)</p>
             {video && (
               <div className={styles.videoContainer}>
-                <iframe width="100%" height="auto" src="https://www.youtube.com/embed/FPOd3lCBNHI" title="إحساس الذنب  - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+                <iframe width="50%" height="auto" src="https://www.youtube.com/embed/FPOd3lCBNHI" title="إحساس الذنب  - سلسلة اطمّن - أبونا داود لمعي" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
               </div>
             )}
           </div>
